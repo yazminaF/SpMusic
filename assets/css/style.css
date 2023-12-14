@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;  
+  }
+
+ body{
+    background-color: #120f10;
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(to bottom, #212529, #000000);
+      
+ 
+ }
+
+
+.container-fluid{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+.header_img{
+
+width:99.9%;
+height: 45rem;
+z-index:1;;
+filter: brightness(25%) blur(3px);
+}
+
+
+.contaunerImg{
+    width: 45%;
+    height: 48rem;   
+}
+
+.imgPrincipal{
+    width: 25%;
+    height: 25rem;
+    position: absolute;
+    top: 11rem;
+    left: 13rem;
+
+}
+
+.titleOne{
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #F1F1F1;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+    top: 14rem;
+    left: 36rem;
+    font-size: 3rem;
+
+}
+
+.titleTwo{
+    color: aliceblue;
+    position: absolute;
+    top: 18rem;
+    left: 36rem;
+    font-size: 2rem;
+    font-family: 'Bree Serif', serif;
+}
+
+.textR{
+    transform: rotate(270deg) ;
+    -webkit-transform: rotate(270deg) ;
+    -moz-transform: rotate(270deg) ;
+    -o-transform: rotate(270deg) ;
+    -ms-transform: rotate(270deg) ;
+    color: aliceblue;
+    position: absolute;
+    top: 26rem;
+    left: 4rem;
+
+}
+
+.colorChange{
+    color:#50a584 ;
+}
+
+.btn-outline-success{
+    background-color: #50a584;
+    color: white;
+    position: absolute;
+    top: 23rem;
+    left: 36rem;
+    height: 3rem;
+}
+
+.btn-outline-secondary{
+
+    position: absolute;
+    top: 23rem;
+    left: 45rem;
+    background-color: aliceblue;
+    width: 8rem;
+    height: 3rem;
+    
+}
+
+.titleSubOne{
+    color: #F1F1F1;
+    position: absolute;
+    top: 43.1rem;
+    left: 13rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 43px;  
+}
+
+
+.containerBox{
+    display: flex;
+    width: 25rem;
+    margin-top: 3rem;
+    margin-left: 13rem;
+
+}
+
+.box{
+
+    width: 9rem;
+    height: 5rem;
+    border: 1px solid white;
+}
+
+.box1{
+    width: 6rem;
+    height: 5rem;
+    border: 1px solid white;
+
+}
