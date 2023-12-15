@@ -136,3 +136,43 @@ filter: brightness(25%) blur(3px);
     border: 1px solid white;
 
 }
+
+
+.imgBox{
+    
+    display: flex;
+    gap: 39px;
+    margin-left: 316px;
+
+}
+
+.imgBox0{
+    top: 99px;
+    position: relative;
+
+
+   
+
+}
+.imgBoxonly{
+    top: 51rem;
+    position: absolute;
+    left: 215px;
+}
+
+.player{
+    top: 823px;
+    position: absolute;
+    left: 241px;
+    color: #F1F1F1;
+    font-size: 13px;
+}
+
+.titleThree{
+    color: #F1F1F1;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    margin-top: 3rem;
+    margin-left: 13rem;
+}
+    
