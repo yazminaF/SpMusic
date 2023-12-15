@@ -15,7 +15,7 @@
 
 .container-fluid{
     width: 100%;
-    height: 184rem;
+    height: 168rem;
     padding-right: 0px;
     padding-left: 0px;
     margin-right: auto;
@@ -447,5 +447,104 @@ p{
 iframe{
     margin-top: 2rem;
     margin-left: 26vh;
+
+}
+
+.line{
+    width: 71%;
+    height: 2px;
+    background-color: #ffebeb;
+    margin-left: 22vh;
+    margin-top: 3rem;
+
+}
+
+.listOne{
+    color: #F1F1F1;
+    display: flex;
+    flex-direction: column;
+    margin-left: 12rem;
+    list-style: none;
+    margin-top: 2rem;
+    font-size: 21px;
+
+}
+
+.listTwo{
+    color: #F1F1F1;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    position: absolute;
+    top: 139rem;
+    left: 30rem;
+    font-size: 21px;
+}
+    
+.line2{
+    width: 71%;
+    height: 2px;
+    background-color: #ffebeb;
+    margin-left: 22vh;
+    margin-top: 3rem;
+
+}
+
+#email{
+    display: flex;
+    width: 15%;
+    background-color: transparent;
+    position: absolute;
+    top: 147rem;
+    left: 47rem;
+    border-bottom: 3px solid #333; /* Puedes ajustar el grosor y el color del borde según tus preferencias */
+    padding-bottom: 10px; /* Añadir espacio para que el contenido no se superponga con el borde */
+}
+
+
+h2{
+    position: absolute;
+    top: 139rem;
+    left: 47rem;
+    font-size: 23px;
+    color: grey;
+
+
+}
+.parrafoDos{
+    position: absolute;
+    top: 142rem;
+    left: 47rem;
+    font-size: 15px;
+    font-family: fangsong;
+
+
+}
+
+.titleFooter{
+    margin-left: 10rem;
+    margin-top: 24px;
+
+}
+
+.imgFooter0{
+    position: absolute;
+    top: 361vh;
+    left: 47rem;
+    display: flex;
+    gap: 12px;
+
+  
+}
+
+.theEnd{
+    font: menu;
+    width: 67%;
+    font-size: 11px;
+    margin-left: 12rem;
+    margin-top: 4rem;
+    font-style: oblique;
+    
+
 
 }
