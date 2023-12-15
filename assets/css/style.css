@@ -15,6 +15,7 @@
 
 .container-fluid{
     width: 100%;
+    height: 184rem;
     padding-right: 0px;
     padding-left: 0px;
     margin-right: auto;
@@ -176,3 +177,275 @@ filter: brightness(25%) blur(3px);
     margin-left: 13rem;
 }
     
+
+
+
+p{
+    color: #F1F1F1;
+}
+
+.listSong{
+    
+}
+
+.songOne{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 38px;
+    margin-left: 12rem;
+    margin-top: 3rem;
+
+}
+
+.songTwo{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+
+    
+}
+
+.songThree{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+
+}
+
+.songFour{
+
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+
+
+}
+
+.songFive{
+
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+}
+
+.songSix{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+}
+
+.songSeven{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+}
+
+.songEight{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+}
+
+.songNine{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+}
+
+.songTen{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+
+}
+
+.songEleven{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+}
+
+.songTwelve{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    gap: 35px;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+
+}
+
+/* detalles separados */
+.play{
+    position: absolute;
+    left: 32vh;
+
+}
+
+.parrafoTwo{
+    position: absolute;
+    left: 16rem;
+
+
+}
+
+.conro1 {
+    position: absolute;
+    top: 152vh;
+    left: 256px;
+    font-size: 13px;
+
+}
+
+.conro2{
+    position: absolute;
+    top: 160vh;
+    left: 256px;
+    font-size: 13px;
+
+
+    
+}
+
+.conro3{
+
+    position: absolute;
+    top: 168vh;
+    left: 256px;
+    font-size: 13px;
+
+}
+
+.conro4{
+    position: absolute;
+    top: 176vh;
+    left: 256px;
+    font-size: 13px;
+
+}
+
+.conro5{
+    position: absolute;
+    top: 183vh;
+    left: 256px;
+    font-size: 13px;
+    
+}
+
+.conro6{
+    position: absolute;
+    top: 191vh;
+    left: 256px;
+    font-size: 13px;
+    
+}
+.conro7{
+    position: absolute;
+    top: 198vh;
+    left: 256px;
+    font-size: 13px;
+    
+}
+.conro8{
+    position: absolute;
+    top: 206vh;
+    left: 256px;
+    font-size: 13px;
+    
+}
+.conro9{
+    position: absolute;
+    top: 214vh;
+    left: 256px;
+    font-size: 13px;
+    
+}
+.conro10{
+    position: absolute;
+    top: 221vh;
+    left: 256px;
+    font-size: 13px;
+    
+}
+.conro11{
+    position: absolute;
+    top: 229vh;
+    left: 256px;
+    font-size: 13px;
+    
+}
+.conro12{
+    position: absolute;
+    top: 236vh;
+    left: 256px;
+    font-size: 13px;
+    
+} 
+
+.minuts{
+    position: absolute;
+    left: 54rem;
+}
+
+.imgShare{
+
+    position: absolute;
+    left: 58rem;
+}
+
+.titleFour{
+    color: #F1F1F1;
+    color: #F1F1F1;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    margin-top: 3rem;
+    margin-left: 26vh;
+}
+
+iframe{
+    margin-top: 2rem;
+    margin-left: 26vh;
+
+}
